@@ -3,5 +3,4 @@ river==0.21
 scikit-learn
 seaborn
 jupyter
-bokeh==2.3.4
 pandas
