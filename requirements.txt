@@ -4,3 +4,4 @@ scikit-learn
 seaborn
 jupyter
 pandas
+statsmodels
