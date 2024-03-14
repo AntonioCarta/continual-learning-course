@@ -5,3 +5,4 @@ seaborn
 jupyter
 pandas
 statsmodels
+avalanche-lib==0.5.0
