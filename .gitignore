@@ -4,3 +4,4 @@ output
 data
 .idea
 __pycache__
+logs/
