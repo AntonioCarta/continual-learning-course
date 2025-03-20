@@ -8,3 +8,4 @@ statsmodels
 avalanche-lib==0.5.0
 graphviz
 torchviz
+pytorchcv==0.0.67
